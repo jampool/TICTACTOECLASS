@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1358827396 source:c:\users\daniel\desktop\cpp\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825769 c:\users\daniel\desktop\cpp\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358825224 c:\users\daniel\desktop\cpp\tictactoeclass\board.h
+	<string>
+
+1358504529 c:\users\daniel\desktop\cpp\tictactoeclass\player.h
+	<string>
+
+1358491294 source:c:\users\daniel\desktop\cpp\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827165 source:c:\users\daniel\desktop\cpp\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
+1358826495 source:c:\users\daniel\desktop\cpp\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
+1358826494 source:c:\users\able valued client\desktop\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
+1358825224 c:\users\able valued client\desktop\tictactoeclass\board.h
+	<string>
+
+1359074333 source:c:\users\able valued client\desktop\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825768 c:\users\able valued client\desktop\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358504528 c:\users\able valued client\desktop\tictactoeclass\player.h
+	<string>
+
+1358491294 source:c:\users\able valued client\desktop\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827164 source:c:\users\able valued client\desktop\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
+1359074333 source:c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825768 c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358825224 c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\board.h
+	<string>
+
+1358504528 c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\player.h
+	<string>
+
+1358491294 source:c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827164 source:c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
+1358826494 source:c:\users\able valued client\desktop\jampong's\data structure\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
+1359074334 source:f:\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825768 f:\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358825224 f:\tictactoeclass\board.h
+	<string>
+
+1358504528 f:\tictactoeclass\player.h
+	<string>
+
+1358491294 source:f:\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827164 source:f:\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
+1358826494 source:f:\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
+1358826494 source:d:\users\anzano-\downloads\compressed\tictactoeclass\board.cpp
+	"board.h"
+	<iostream>
+	<cstdlib>
+
+1358825224 d:\users\anzano-\downloads\compressed\tictactoeclass\board.h
+	<string>
+
+1359074334 source:d:\users\anzano-\downloads\compressed\tictactoeclass\game.cpp
+	"game.h"
+	"board.h"
+	<iostream>
+	<string>
+
+1358825768 d:\users\anzano-\downloads\compressed\tictactoeclass\game.h
+	"board.h"
+	"player.h"
+	<string>
+
+1358504528 d:\users\anzano-\downloads\compressed\tictactoeclass\player.h
+	<string>
+
+1358491294 source:d:\users\anzano-\downloads\compressed\tictactoeclass\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+	"game.h"
+
+1358827164 source:d:\users\anzano-\downloads\compressed\tictactoeclass\player.cpp
+	"player.h"
+	<iostream>
+	<math.h>
+
